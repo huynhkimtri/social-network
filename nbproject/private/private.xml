@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/G:/Java/Lab231/SocialNetwork/web/create-article.jsp</file>
+            <file>file:/G:/Java/Lab231/SocialNetwork/src/java/trihk/socialnetwork/servlet/DisLikeArticleServlet.java</file>
+            <file>file:/G:/Java/Lab231/SocialNetwork/src/java/trihk/socialnetwork/controller/MainController.java</file>
+            <file>file:/G:/Java/Lab231/SocialNetwork/web/article-details.jsp</file>
+            <file>file:/G:/Java/Lab231/SocialNetwork/web/META-INF/context.xml</file>
+            <file>file:/G:/Java/Lab231/SocialNetwork/src/java/trihk/socialnetwork/service/ArticleService.java</file>
+            <file>file:/G:/Java/Lab231/SocialNetwork/src/java/trihk/socialnetwork/service/NotificationService.java</file>
+            <file>file:/G:/Java/Lab231/SocialNetwork/web/WEB-INF/web.xml</file>
+            <file>file:/G:/Java/Lab231/SocialNetwork/src/java/trihk/socialnetwork/dao/NotificationDAO.java</file>
+            <file>file:/G:/Java/Lab231/SocialNetwork/src/java/trihk/socialnetwork/servlet/EmotionServlet.java</file>
+            <file>file:/G:/Java/Lab231/SocialNetwork/src/java/trihk/socialnetwork/servlet/MyArticleServlet.java</file>
+            <file>file:/G:/Java/Lab231/SocialNetwork/src/java/trihk/socialnetwork/servlet/DeleteArticleServlet.java</file>
+            <file>file:/G:/Java/Lab231/SocialNetwork/src/java/trihk/socialnetwork/entity/Notification.java</file>
+            <file>file:/G:/Java/Lab231/SocialNetwork/src/java/trihk/socialnetwork/servlet/SearchArticleServlet.java</file>
+            <file>file:/G:/Java/Lab231/SocialNetwork/src/java/trihk/socialnetwork/service/EmotionService.java</file>
+            <file>file:/G:/Java/Lab231/SocialNetwork/src/java/trihk/socialnetwork/dao/ArticleCommentDAO.java</file>
+            <file>file:/G:/Java/Lab231/SocialNetwork/src/java/trihk/socialnetwork/entity/ArticleComment.java</file>
+            <file>file:/G:/Java/Lab231/SocialNetwork/src/java/trihk/socialnetwork/servlet/LoginServlet.java</file>
+            <file>file:/G:/Java/Lab231/SocialNetwork/src/java/trihk/socialnetwork/utils/DBUtils.java</file>
+            <file>file:/G:/Java/Lab231/SocialNetwork/src/java/trihk/socialnetwork/servlet/DeleteCommentServlet.java</file>
+            <file>file:/G:/Java/Lab231/SocialNetwork/src/java/trihk/socialnetwork/servlet/LikeArticleServlet.java</file>
+            <file>file:/G:/Java/Lab231/SocialNetwork/src/java/trihk/socialnetwork/service/CommentService.java</file>
+            <file>file:/G:/Java/Lab231/SocialNetwork/src/java/trihk/socialnetwork/servlet/CommentServlet.java</file>
+        </group>
+    </open-files>
+</project-private>
